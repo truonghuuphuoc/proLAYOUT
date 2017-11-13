@@ -1,0 +1,27 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~proLAYOUT_Project.PrjPcb|ReportField=ProjectFullPath~F:\TOOL\ArmyShoot\proLAYOUT\proLAYOUT_Project\proLAYOUT_Project.PrjPcb|ReportField=Title~Bill of Materials For Project [proLAYOUT_Project.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~74|ReportField=ReportTime~10:49:57 AM|ReportField=ReportDate~11/13/2017|ReportField=ReportDateTime~11/13/2017 10:49:57 AM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~11/13/2017|ReportField=CurrentTime~10:48:23 AM|ReportField=Date~|ReportField=DocumentFullPathAndName~F:\TOOL\ArmyShoot\proLAYOUT\proLAYOUT_Project\proLAYOUT.SchDoc|ReportField=DocumentName~proLAYOUT.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~11/13/2017|ReportField=Organization~|ReportField=ProjectName~proLAYOUT_Project.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~proLAYOUT_Project.PrjPcb|ReportField=DataSourceFullPath~F:\TOOL\ArmyShoot\proLAYOUT\proLAYOUT_Project\proLAYOUT_Project.PrjPcb
+1|10µF||C1|CAP_ELEC_5x5.7|CAP Aluminum|1
+2|104||C2, C4, C5, C6, C7, C12, C13, C14, C15, C16, C17, C18, C19, C20, C21, C22, C23|SM-CAP-0805|CAP SMD|17
+3|10uF||C3|SM-CAP-0805|CAP SMD|1
+4|10pF||C8, C9|SM-CAP-0805|CAP SMD|2
+5|22pF||C10, C11|SM-CAP-0805|CAP SMD|2
+6|8Mhz|Crystal For all Crystal 2pin.|CT1|CRYSTAL_HC49-US-SM|CRYSTAL|1
+7|32.768Khz|Crystal For all Crystal 2pin.|CT2|CRYSTAL SMD 32,768 kHz|CRYSTAL|1
+8|HR911105A|HR911105A Single RJ45 Connector LED|J1, J2|RJ45-LED|RJ45-LAN_05A|2
+9|LED|LED Single colour Green and Red|LED1, LED2, LED3, LED4, LED5|L-0805|LED|5
+10|BOOT0|Header, 2-Pin|P1|HDR1X2|Header 2|1
+11|IRQ_HEADER|Header, 10-Pin|P2|HDR1X10|Header 10|1
+12|RF_HEAD_1|Header, 7-Pin|P3|HDR1X7|Header 7|1
+13|RF_HEAD_2|Header, 3-Pin|P4|HDR1X3|Header 3|1
+14|IRQ_PW|Header, 2-Pin|P5|HDR1X2|Header 2|1
+15|1K|Resistor SMD|R1, R11, R12, R13, R14|SM-0805|RM|5
+16|10K|Resistor 1/4W|R2, R3, R4, R6, R8, R9|R-0805|R|6
+17|5K|Resistor 1/4W|R5|R-0805|R|1
+18|120R|Resistor 1/4W|R7|R-0805|R|1
+19|0R|Resistor 1/4W|R10|R-0805|R|1
+20|10K|Resistor SMD|R15, R16, R17, R19, R20, R21, R22, R23, R24, R25, R26, R27, R28, R29, R30, R31, R32|SM-0805|RM|17
+21|1M|Resistor SMD|R18|SM-0805|RM|1
+22|RESET|Switch button 4 pin|SW1|SW4 CMD M|SW4-1|1
+23|LM1117-3.3V|800mA Low-Dropout Linear Regulator|U1|LM1117-SOP|LM1117|1
+24|MAX485||U2|SO8W_N|max485_smd|1
+25|STM32F103C8T6|STM32 ARM-based 32-bit MCU with 64 Kbytes Flash, 48-pin LQFP, Industrial Temperature|U4|STM32_LQPF48|STM32F103xx_LQFP48|1
+26|5V||VCC|DC-IN|DCIN|1
